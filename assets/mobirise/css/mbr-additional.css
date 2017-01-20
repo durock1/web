@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+
+
+
+#header1-4 H1 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: #efefef;
+}
+#header1-4 P {
+  color: #efefef;
+}
+#slider-6 P {
+  text-align: left;
+  color: #ffffff;
+}
+#slider-6 H1 {
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+  text-align: left;
+}
+#slider-6 B {
+  color: #ffffff;
+}
+#msg-box3-c .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+}
+#msg-box3-c .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-c .mbr-article P {
+  color: #ffffff;
+}
+#menu-d .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#testimonials1-e .mbr-section__header {
+  font-family: 'Oswald', sans-serif;
+}
+#form1-g .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#social-buttons2-f .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#contacts2-h P {
+  text-align: left;
+  font-size: 13px;
+}
